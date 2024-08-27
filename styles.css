@@ -1,0 +1,90 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: "New Amsterdam", sans-serif;
+}
+
+
+.video-container {
+    text-align: center
+}
+header{
+    background-color: rgb(37, 18, 122);
+    border-bottom: solid 4px rgb(37, 18, 122);
+    padding: 14px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    font-size: 50px;
+}
+
+.container{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+.minha-imagem {
+    width: 550px;
+    height: 350px;
+}
+
+.container {
+    text-align: center;
+}
+
+h1{
+    font-size: 40px
+}
+
+h2{
+    background-color: rgb(37, 18, 122);
+    border-bottom: solid 4px rgb(37, 18, 122);
+    padding: 20px;
+    font-size: 35px;
+    color: aliceblue;
+}
+
+.minha-imagem {
+    width: 550px;
+    height: 350px;
+}
+
+.container{
+    text-align: center;
+}
+
+
+h2{
+    background-color: rgb(255, 0, 0);
+    border-bottom: solid 4px rgb(255, 0, 0);
+    padding: 14px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.minha-imagem {
+    width: 630px;
+    height: 350px;
+}
+
+h2{
+    background-color: rgb(37, 18, 122);
+    font-family: "New Amsterdam", sans-serif;
+}
+
+.minha-imagem {
+    width: 630px;
+    height: 350px;
+}
+
+h3{
+    height: 200 px;
+}
+
+.div style{
+    text-align: center;
+}
